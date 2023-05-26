@@ -1,0 +1,56 @@
+*{
+margin: 0;
+padding: 0;
+font-family: Century Gothics;
+}
+
+header{
+	background-image: url(../qw4.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+
+}
+.title{
+	position:absolute;
+	top: 15%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}   
+ .title h1{
+	 position: center;
+	 color:rgb(255,0,255);
+	 font-size: 70px
+ }
+ 
+ .CHEST {
+	 max-width: 700px;
+	 height:350px;
+	 background-color:white;
+	 padding: 20px;
+     border: 5px solid rgb(255,0,255);
+     border-radius: 10px;
+	 position:absolute;
+     color:rgb(255,0,255);
+	 top: 29%;
+	 left: 02%;  
+ }
+ 
+ .image{
+	 position:absolute;
+	 top: 29%;
+	 left:60%;
+     padding: -5px;
+     border: 5px solid rgb(255,0,255);
+     border-radius: 10px;
+     font-size: 00px;
+     cursor: pointer;
+ }
+ .main {
+      position:center;
+	  color:rgb(255,0,255);
+	  top: 40%;
+	  left: 02%; +
+	  
+ }
